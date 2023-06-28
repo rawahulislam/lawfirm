@@ -1,4 +1,9 @@
-.containerPratice{
+.containerPratice
+{   width: 1140px;
     position: absolute;
     top: 2171px;
+    left: 145px;
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
 }
