@@ -1,0 +1,49 @@
+.advertise{
+    width:-webkit-fill-available;
+    position: absolute;
+    display: flex;
+    top:1081px;
+    justify-content: space-between;
+    margin: 0rem 6rem 0rem 6rem;
+   
+}
+
+.typo{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+}
+.text1{
+    width: 387px;
+font-size: 54px;
+font-weight: 600;
+line-height: 87px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.text2{
+font-size: 32px;
+font-weight: 600;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.para{
+font-size: 18px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+width: 475px;
+
+}
+
+hr{
+
+height: 206px;
+
+}
